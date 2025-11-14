@@ -1,0 +1,37 @@
+{
+  "$schema": "file:///D:/OP-Data/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "2.0.0",
+    "name": "Operation-Project SS2",
+    "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
+    "icon": "https://i.imgur.com/wXisqcM.png",
+    "address": "l43.20.142.31:25565",
+    "discord": {
+      "shortId": "SS2 - The Ritual - DEV",
+      "largeImageText": "Operation Project",
+      "largeImageKey": "oplogo"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.6"
+  },
+  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+			"options.txt",
+			"config/**/*",
+			"config/*.cfg",
+			"config/**/*.yml",
+			"config/**/*.txt",
+			"config/**/*.toml",
+			"config/*.toml",
+			"config/*.json",
+			"config/*.properties",
+			"config/*.json5"
+		]
+	}
+  ]
+}
