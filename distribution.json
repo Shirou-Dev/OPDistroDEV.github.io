@@ -12,11 +12,11 @@
       "name": "Operation-Project SS2",
       "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "2.0.1",
-      "address": "l43.20.142.31",
+      "version": "2.0.2",
+      "address": "zakuranetwork.online",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "SS2 - The Ritual - DEV",
+        "shortId": "SS2 - DEV",
         "largeImageText": "Operation Project",
         "largeImageKey": "oplogo"
       },
@@ -563,16 +563,6 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          }
-        },
-        {
           "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
           "name": "Emotecraft",
           "type": "ForgeMod",
@@ -583,16 +573,6 @@
           }
         },
         {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.14+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3065813,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/fabric-api-0.92.6+1.11.14+1.20.1.jar",
-            "MD5": "2859d401e221e94acf0b48c5f7efa50b"
-          }
-        },
-        {
           "id": "de.keksuccino:fancymenu:3.7.0@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
@@ -600,16 +580,6 @@
             "size": 3628603,
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/fancymenu_forge_3.7.0_MC_1.20.1.jar",
             "MD5": "365e76a8d99085a1ac942c2b46125508"
-          }
-        },
-        {
-          "id": "org.figuramc:figura:0.1.5+1.20.1@jar",
-          "name": "Figura",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2338069,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/figura-0.1.5+1.20.1-forge-mc.jar",
-            "MD5": "9a14ac7b2c6dea0085570fe4bb7a4b69"
           }
         },
         {
@@ -780,16 +750,6 @@
             "size": 37178,
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
-          }
-        },
-        {
-          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2831148,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           }
         },
         {
@@ -1191,6 +1151,50 @@
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
             "MD5": "3c07e0a25c1921da7586c0290c72ba86",
             "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
+          }
+        },
+        {
+          "id": "embeddium-0.3.31+mc1.20.1.jar",
+          "name": "embeddium-0.3.31+mc1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1320675,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/files/mods/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+            "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3065813,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/files/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+            "MD5": "2859d401e221e94acf0b48c5f7efa50b",
+            "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
+          }
+        },
+        {
+          "id": "figura-0.1.5+1.20.1-forge-mc.jar",
+          "name": "figura-0.1.5+1.20.1-forge-mc.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2338069,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/files/mods/figura-0.1.5+1.20.1-forge-mc.jar",
+            "MD5": "9a14ac7b2c6dea0085570fe4bb7a4b69",
+            "path": "mods/figura-0.1.5+1.20.1-forge-mc.jar"
+          }
+        },
+        {
+          "id": "oculus-mc1.20.1-1.8.0.jar",
+          "name": "oculus-mc1.20.1-1.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2851119,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/files/mods/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572",
+            "path": "mods/oculus-mc1.20.1-1.8.0.jar"
           }
         }
       ]
