@@ -12,8 +12,8 @@
       "name": "Operation-Project SS2",
       "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "2.0.0",
-      "address": "l43.20.142.31:25565",
+      "version": "2.0.1",
+      "address": "l43.20.142.31",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "SS2 - The Ritual - DEV",
@@ -523,16 +523,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043384,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
-          }
-        },
-        {
           "id": "com.simibubi:create:6.0.8@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -793,13 +783,13 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2851119,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572"
+            "size": 2831148,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           }
         },
         {
@@ -1190,6 +1180,17 @@
             "size": 2794,
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/files/config/RPG-HUD",
             "path": "config/RPG-HUD"
+          }
+        },
+        {
+          "id": "Connector-1.0.0-beta.46+1.20.1.jar",
+          "name": "Connector-1.0.0-beta.46+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5043384,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "3c07e0a25c1921da7586c0290c72ba86",
+            "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
           }
         }
       ]

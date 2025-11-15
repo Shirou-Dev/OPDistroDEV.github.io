@@ -1,11 +1,11 @@
 {
   "$schema": "file:///D:/OP-Data/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "name": "Operation-Project SS2",
     "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
     "icon": "https://i.imgur.com/wXisqcM.png",
-    "address": "l43.20.142.31:25565",
+    "address": "l43.20.142.31",
     "discord": {
       "shortId": "SS2 - The Ritual - DEV",
       "largeImageText": "Operation Project",
