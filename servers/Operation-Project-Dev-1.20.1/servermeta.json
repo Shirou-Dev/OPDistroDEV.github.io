@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/OP-Data/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "2.0.3",
+    "version": "2.0.5",
     "name": "Operation-Project SS2",
     "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
     "icon": "https://i.imgur.com/wXisqcM.png",

@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1327894948644786237",
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
@@ -12,7 +12,7 @@
       "name": "Operation-Project SS2",
       "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "2.0.4",
+      "version": "2.0.5",
       "address": "zakuranetwork.online",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -580,6 +580,20 @@
             "size": 3628603,
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/fancymenu_forge_3.7.0_MC_1.20.1.jar",
             "MD5": "365e76a8d99085a1ac942c2b46125508"
+          }
+        },
+        {
+          "id": "org.figuramc:figura:0.1.5+1.20.1@jar",
+          "name": "Figura",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2338069,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/optionaloff/figura-0.1.5+1.20.1-forge-mc.jar",
+            "MD5": "9a14ac7b2c6dea0085570fe4bb7a4b69"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1173,17 +1187,6 @@
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
             "MD5": "2859d401e221e94acf0b48c5f7efa50b",
             "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
-          }
-        },
-        {
-          "id": "figura-0.1.5+1.20.1-forge-mc.jar",
-          "name": "figura-0.1.5+1.20.1-forge-mc.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2338069,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/figura-0.1.5+1.20.1-forge-mc.jar",
-            "MD5E": "9a14ac7b2c6dea0085570fe4bb7a4b69",
-            "path": "mods/figura-0.1.5+1.20.1-forge-mc.jar"
           }
         },
         {
