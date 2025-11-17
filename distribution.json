@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1327894948644786237",
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
@@ -12,7 +12,7 @@
       "name": "Operation-Project SS2",
       "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "2.0.6",
+      "version": "2.0.7",
       "address": "zakuranetwork.online",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -433,13 +433,133 @@
           ]
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
+          "id": "net.geforcemods:securitycraft:1.10.1@jar",
+          "name": "SecurityCraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5043384,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
+            "size": 4769715,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.1.jar",
+            "MD5": "9299326e13fa4f10c377ea6b26c771f9"
+          }
+        },
+        {
+          "id": "net.spellcraftgaming.rpghud.main:rpghud:3.10.3@jar",
+          "name": "RPG-HUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 222317,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/[1.20.1][Forge]%20RPG-HUD-3.10.3.jar",
+            "MD5": "7e9be4e9b8c0783dc7693df320998326"
+          }
+        },
+        {
+          "id": "com.starfish_studios:another_furniture:1.20.1-3.0.2@jar",
+          "name": "Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2425050,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.2.jar",
+            "MD5": "4ea0e6533aedbeb5679fd46aa039cbda"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.35@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597605,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.35-all.jar",
+            "MD5": "aa45598d0948debaf2ee156ed2ca8bf3"
+          }
+        },
+        {
+          "id": "io.github.kosmx:bendylib:4.0.0@jar",
+          "name": "Bendy lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50745,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/bendy-lib-forge-4.0.0.jar",
+            "MD5": "4f270cbc45ac11b6747c90ce2ca1b89a"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
+          "id": "chovysapocalypsemod:chovys_apocalypse_mod:1.7@jar",
+          "name": "Chovy's Apocalypse Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 426059,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/chovys_apocalypse_mod-1.7.jar",
+            "MD5": "dc3e382a649f5ae7cd7a73134e1364b9"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "com.simibubi:create:6.0.8@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19170905,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+            "MD5": "6ebc5c57638c1678359eac65b924c310"
+          }
+        },
+        {
+          "id": "com.lazrproductions:cuffed:1.3.11@jar",
+          "name": "Cuffed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 869563,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/Cuffed-1.20.1-1.3.11.jar",
+            "MD5": "826f466b6b67b3e60b5702c2af546d85"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "net.mcreator.doomsdaydecoration:doomsday_decoration:1.0.0@jar",
+          "name": "Doomsday Decoration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9658884,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/doomsday_decoration-1.1.3-forge-1.20.1.jar",
+            "MD5": "780bd21f73ed1d2c901c00ade26b2f7d"
           }
         },
         {
@@ -453,6 +573,16 @@
           }
         },
         {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 680255,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "MD5": "636c62379cd7c5201a70fd457808e331"
+          }
+        },
+        {
           "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.14+1.20.1@jar",
           "name": "Forgified Fabric API",
           "type": "ForgeMod",
@@ -460,6 +590,16 @@
             "size": 3065813,
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/fabric-api-0.92.6+1.11.14+1.20.1.jar",
             "MD5": "2859d401e221e94acf0b48c5f7efa50b"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.7.0@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3628603,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/fancymenu_forge_3.7.0_MC_1.20.1.jar",
+            "MD5": "365e76a8d99085a1ac942c2b46125508"
           }
         },
         {
@@ -477,6 +617,176 @@
           }
         },
         {
+          "id": "gg.chaldea.client.reset.packet:clientresetpacket:0.0.6@jar",
+          "name": "Client Reset Packet",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12869,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/ForgeClientResetPacket-0.3.1.jar",
+            "MD5": "a5957f3448beeae5a07a4924f7f30e95"
+          }
+        },
+        {
+          "id": "bre2el.fpsreducer:fpsreducer:1.20.1-2.5.1@jar",
+          "name": "FPS Reducer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 125660,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/FpsReducer2-forge-1.20.1-2.5.1.jar",
+            "MD5": "d17bad88d746c21dcd37f16257a1e84d"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.8.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1038979,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
+            "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
+          }
+        },
+        {
+          "id": "net.blay09.mods:hardcorerevival:12.0.9@jar",
+          "name": "Hardcore Revival",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 232488,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/hardcorerevival-forge-1.20.1-12.0.9.jar",
+            "MD5": "6369dd28433c4b15a48e134d8c00c7ca"
+          }
+        },
+        {
+          "id": "en.predator.horrorelementmod:horror_element_mod:1.6.2@jar",
+          "name": "Horror Element Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21158234,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/horror_element_mod-1.6.2-forge-1.20.1.jar",
+            "MD5": "cf274a6cf5735639241360ef87cac7ca"
+          }
+        },
+        {
+          "id": "immersive_paintings:immersive_paintings:0.6.8+1.20.1@jar",
+          "name": "Immersive Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4854834,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/immersive_paintings-0.6.8+1.20.1-forge.jar",
+            "MD5": "a89b2f9c4c8f59c98aace3a20667b226"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.112@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1385600,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.112.jar",
+            "MD5": "c899d5b549ace1e9fa46700c778c3809"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "com.lazrproductions:lazrslib:1.1.1@jar",
+          "name": "Lazr's Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120029,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/Lazr's%20Lib-1.20-1.1.1.jar",
+            "MD5": "adc32a47cfec91a0d1708d5e28f1e593"
+          }
+        },
+        {
+          "id": "net.satisfy:candlelight:2.0.5@jar",
+          "name": "[Let's Do] Candlelight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2507744,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/letsdo-candlelight-forge-2.0.5.jar",
+            "MD5": "7f929519324317860239d5550044e23d"
+          }
+        },
+        {
+          "id": "net.satisfy:farm_and_charm:1.0.13@jar",
+          "name": "[Let's Do] Farm & Charm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2321061,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/letsdo-farm_and_charm-forge-1.0.13.jar",
+            "MD5": "96e615e6af4138accfb1db4f7d6af24c"
+          }
+        },
+        {
+          "id": "com.codinglitch:lexiconfig:1.4.18-1@jar",
+          "name": "Lexiconfig",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 54205,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/lexiconfig-forge-1.4.18-1.jar",
+            "MD5": "67bdb3974d75d540320041720e060edf"
+          }
+        },
+        {
+          "id": "me.xjqsh.lesraisinsarmor:lrarmor:0.1.4.3@jar",
+          "name": "LesRaisinsArmor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 887099,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/lrarmor-1.20.1-0.1.4.3.jar",
+            "MD5": "915a633e24714a1dd6dd7f8f81ccd3bd"
+          }
+        },
+        {
+          "id": "net.marblednull:marbledsfirstaid:1.2.0.0@jar",
+          "name": "Marbled's First Aid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 534925,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
+            "MD5": "b51b5bc8686ebc95e83312f7efadc923"
+          }
+        },
+        {
+          "id": "net.marblednull:marbledsmelees:1.20.1-1.0.0@jar",
+          "name": "Marbled's Melees",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 53283,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/marbledsmelees-1.20.1-1.0.0.jar",
+            "MD5": "ccc10185debaf764c3531f63e4cd9f62"
+          }
+        },
+        {
+          "id": "net.marblednull:mcore:1.0.3.0@jar",
+          "name": "Marbled's Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 121205,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/mcore-1.20.1-1.0.3.0.jar",
+            "MD5": "da142d7a183dae31812590b95173915f"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37178,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -484,6 +794,136 @@
             "size": 2851119,
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "omegarecon:omegarecon:2.1.0@jar",
+          "name": "Recon Omega: Military Armor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1212700,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/Omega%20Recon%202.1.0%20for%20Forge%201.20.1.jar",
+            "MD5": "4248de86e4ffda1b7932bf46b103d4b5"
+          }
+        },
+        {
+          "id": "com.github.dima_dencep.mods:online_emotes:2.1.2-forge@jar",
+          "name": "Online Emotes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 782231,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/online-emotes-2.1.2-forge.jar",
+            "MD5": "83b79456eacaba8f056fa944030c53c0"
+          }
+        },
+        {
+          "id": "com.alrex:parcool:3.4.1.5@jar",
+          "name": "ParCool!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1133021,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/ParCool-1.20.1-3.4.1.5.jar",
+            "MD5": "81baa45ce88a653214ab58df5af51dea"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671605,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "MD5": "95bdd5558d34044f54aab0ce292e679b"
+          }
+        },
+        {
+          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181437,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01"
+          }
+        },
+        {
+          "id": "com.vicmatskiv:pointblank:1.9.6@jar",
+          "name": "Point Blank",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17401034,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/pointblank-forge-1.20.1-1.9.6.jar",
+            "MD5": "35137bad907310234a0198ba11df79a3"
+          }
+        },
+        {
+          "id": "generated.forgemod:prionmod:2.5@jar",
+          "name": "Prion Infection",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3406886,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/prionmod-2.0.93.jar",
+            "MD5": "cca0a4a307abeeca8e4304679dc76621"
+          }
+        },
+        {
+          "id": "io.github.lgatodu47:screenshot_viewer:1.3.2-forge-mc1.20.1@jar",
+          "name": "Screenshot Viewer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 113495,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
+            "MD5": "e9d81c4744cfd8d00d72f03c55d90075"
+          }
+        },
+        {
+          "id": "net.mcreator:selfexpression:2.22@jar",
+          "name": "Selfexpression",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6987776,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/selfexpression-2.22a-forge-1.20.1.jar",
+            "MD5": "98f496e45ec9923b3b90f291c1c0e5fc"
+          }
+        },
+        {
+          "id": "net.mcreator.simplytraps:simply_traps:1.7@jar",
+          "name": "Simply Traps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 171139,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/simply_traps-1.7-forge-1.20.1.jar",
+            "MD5": "ad5277342482ccada3ffa56b52254e07"
+          }
+        },
+        {
+          "id": "me.edoren:skin_changer:0.6.6@jar",
+          "name": "Skin Changer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60904,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/skin_changer-forge-1.20.1-0.6.6.jar",
+            "MD5": "62c922b3219f6d14db704a53d8fea63d"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.10@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203819,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+            "MD5": "499b9f228dbeafdf5ca499d1d3c84d5e"
+          }
+        },
+        {
+          "id": "dev.gigaherz:toolbelt:1.20.02@jar",
+          "name": "Tool Belt",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 253567,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/ToolBelt-1.20.1-1.20.02.jar",
+            "MD5": "040527fce7ada8c7ea90430e89541ac6"
           }
         },
         {
@@ -747,498 +1187,14 @@
           }
         },
         {
-          "id": "another_furniture-forge-1.20.1-3.0.2.jar",
-          "name": "another_furniture-forge-1.20.1-3.0.2.jar",
+          "id": "Connector-1.0.0-beta.46+1.20.1.jar",
+          "name": "Connector-1.0.0-beta.46+1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 2425050,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/another_furniture-forge-1.20.1-3.0.2.jar",
-            "MD5": "4ea0e6533aedbeb5679fd46aa039cbda",
-            "path": "mods/another_furniture-forge-1.20.1-3.0.2.jar"
-          }
-        },
-        {
-          "id": "architectury-9.2.14-forge.jar",
-          "name": "architectury-9.2.14-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 580602,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/architectury-9.2.14-forge.jar",
-            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
-            "path": "mods/architectury-9.2.14-forge.jar"
-          }
-        },
-        {
-          "id": "balm-forge-1.20.1-7.3.35-all.jar",
-          "name": "balm-forge-1.20.1-7.3.35-all.jar",
-          "type": "File",
-          "artifact": {
-            "size": 597605,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/balm-forge-1.20.1-7.3.35-all.jar",
-            "MD5": "aa45598d0948debaf2ee156ed2ca8bf3",
-            "path": "mods/balm-forge-1.20.1-7.3.35-all.jar"
-          }
-        },
-        {
-          "id": "bendy-lib-forge-4.0.0.jar",
-          "name": "bendy-lib-forge-4.0.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 50745,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/bendy-lib-forge-4.0.0.jar",
-            "MD5": "4f270cbc45ac11b6747c90ce2ca1b89a",
-            "path": "mods/bendy-lib-forge-4.0.0.jar"
-          }
-        },
-        {
-          "id": "carryon-forge-1.20.1-2.1.2.7.jar",
-          "name": "carryon-forge-1.20.1-2.1.2.7.jar",
-          "type": "File",
-          "artifact": {
-            "size": 439457,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/carryon-forge-1.20.1-2.1.2.7.jar",
-            "MD5": "8956b37c2ae11cc5522c8404a262c6b7",
-            "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar"
-          }
-        },
-        {
-          "id": "chovys_apocalypse_mod-1.7.jar",
-          "name": "chovys_apocalypse_mod-1.7.jar",
-          "type": "File",
-          "artifact": {
-            "size": 426059,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/chovys_apocalypse_mod-1.7.jar",
-            "MD5": "dc3e382a649f5ae7cd7a73134e1364b9",
-            "path": "mods/chovys_apocalypse_mod-1.7.jar"
-          }
-        },
-        {
-          "id": "cloth-config-11.1.136-forge.jar",
-          "name": "cloth-config-11.1.136-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1181413,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/cloth-config-11.1.136-forge.jar",
-            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53",
-            "path": "mods/cloth-config-11.1.136-forge.jar"
-          }
-        },
-        {
-          "id": "create-1.20.1-6.0.8.jar",
-          "name": "create-1.20.1-6.0.8.jar",
-          "type": "File",
-          "artifact": {
-            "size": 19170905,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/create-1.20.1-6.0.8.jar",
-            "MD5": "6ebc5c57638c1678359eac65b924c310",
-            "path": "mods/create-1.20.1-6.0.8.jar"
-          }
-        },
-        {
-          "id": "Cuffed-1.20.1-1.3.11.jar",
-          "name": "Cuffed-1.20.1-1.3.11.jar",
-          "type": "File",
-          "artifact": {
-            "size": 869563,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/Cuffed-1.20.1-1.3.11.jar",
-            "MD5": "826f466b6b67b3e60b5702c2af546d85",
-            "path": "mods/Cuffed-1.20.1-1.3.11.jar"
-          }
-        },
-        {
-          "id": "curios-forge-5.14.1+1.20.1.jar",
-          "name": "curios-forge-5.14.1+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 398066,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/curios-forge-5.14.1+1.20.1.jar",
-            "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
-            "path": "mods/curios-forge-5.14.1+1.20.1.jar"
-          }
-        },
-        {
-          "id": "doomsday_decoration-1.1.3-forge-1.20.1.jar",
-          "name": "doomsday_decoration-1.1.3-forge-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 9658884,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/doomsday_decoration-1.1.3-forge-1.20.1.jar",
-            "MD5": "780bd21f73ed1d2c901c00ade26b2f7d",
-            "path": "mods/doomsday_decoration-1.1.3-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
-          "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 680255,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
-            "MD5": "636c62379cd7c5201a70fd457808e331",
-            "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
-          }
-        },
-        {
-          "id": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
-          "name": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3628603,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/fancymenu_forge_3.7.0_MC_1.20.1.jar",
-            "MD5": "365e76a8d99085a1ac942c2b46125508",
-            "path": "mods/fancymenu_forge_3.7.0_MC_1.20.1.jar"
-          }
-        },
-        {
-          "id": "ForgeClientResetPacket-0.3.1.jar",
-          "name": "ForgeClientResetPacket-0.3.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 12869,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/ForgeClientResetPacket-0.3.1.jar",
-            "MD5": "a5957f3448beeae5a07a4924f7f30e95",
-            "path": "mods/ForgeClientResetPacket-0.3.1.jar"
-          }
-        },
-        {
-          "id": "FpsReducer2-forge-1.20.1-2.5.1.jar",
-          "name": "FpsReducer2-forge-1.20.1-2.5.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 125660,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
-            "MD5": "d17bad88d746c21dcd37f16257a1e84d",
-            "path": "mods/FpsReducer2-forge-1.20.1-2.5.1.jar"
-          }
-        },
-        {
-          "id": "geckolib-forge-1.20.1-4.8.2.jar",
-          "name": "geckolib-forge-1.20.1-4.8.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1038979,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/geckolib-forge-1.20.1-4.8.2.jar",
-            "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde",
-            "path": "mods/geckolib-forge-1.20.1-4.8.2.jar"
-          }
-        },
-        {
-          "id": "hardcorerevival-forge-1.20.1-12.0.9.jar",
-          "name": "hardcorerevival-forge-1.20.1-12.0.9.jar",
-          "type": "File",
-          "artifact": {
-            "size": 232488,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/hardcorerevival-forge-1.20.1-12.0.9.jar",
-            "MD5": "6369dd28433c4b15a48e134d8c00c7ca",
-            "path": "mods/hardcorerevival-forge-1.20.1-12.0.9.jar"
-          }
-        },
-        {
-          "id": "horror_element_mod-1.6.2-forge-1.20.1.jar",
-          "name": "horror_element_mod-1.6.2-forge-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 21158234,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/horror_element_mod-1.6.2-forge-1.20.1.jar",
-            "MD5": "cf274a6cf5735639241360ef87cac7ca",
-            "path": "mods/horror_element_mod-1.6.2-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "immersive_paintings-0.6.8+1.20.1-forge.jar",
-          "name": "immersive_paintings-0.6.8+1.20.1-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 4854834,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/immersive_paintings-0.6.8+1.20.1-forge.jar",
-            "MD5": "a89b2f9c4c8f59c98aace3a20667b226",
-            "path": "mods/immersive_paintings-0.6.8+1.20.1-forge.jar"
-          }
-        },
-        {
-          "id": "jei-1.20.1-forge-15.20.0.112.jar",
-          "name": "jei-1.20.1-forge-15.20.0.112.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1385600,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/jei-1.20.1-forge-15.20.0.112.jar",
-            "MD5": "c899d5b549ace1e9fa46700c778c3809",
-            "path": "mods/jei-1.20.1-forge-15.20.0.112.jar"
-          }
-        },
-        {
-          "id": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 625185,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-            "MD5": "d69107c593e361e1b7b96733250bd098",
-            "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
-          }
-        },
-        {
-          "id": "Lazr's Lib-1.20-1.1.1.jar",
-          "name": "Lazr's Lib-1.20-1.1.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 120029,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/Lazr's%20Lib-1.20-1.1.1.jar",
-            "MD5": "adc32a47cfec91a0d1708d5e28f1e593",
-            "path": "mods/Lazr's Lib-1.20-1.1.1.jar"
-          }
-        },
-        {
-          "id": "letsdo-candlelight-forge-2.0.5.jar",
-          "name": "letsdo-candlelight-forge-2.0.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2507744,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/letsdo-candlelight-forge-2.0.5.jar",
-            "MD5": "7f929519324317860239d5550044e23d",
-            "path": "mods/letsdo-candlelight-forge-2.0.5.jar"
-          }
-        },
-        {
-          "id": "letsdo-farm_and_charm-forge-1.0.13.jar",
-          "name": "letsdo-farm_and_charm-forge-1.0.13.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2321061,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/letsdo-farm_and_charm-forge-1.0.13.jar",
-            "MD5": "96e615e6af4138accfb1db4f7d6af24c",
-            "path": "mods/letsdo-farm_and_charm-forge-1.0.13.jar"
-          }
-        },
-        {
-          "id": "lexiconfig-forge-1.4.18-1.jar",
-          "name": "lexiconfig-forge-1.4.18-1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 54205,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/lexiconfig-forge-1.4.18-1.jar",
-            "MD5": "67bdb3974d75d540320041720e060edf",
-            "path": "mods/lexiconfig-forge-1.4.18-1.jar"
-          }
-        },
-        {
-          "id": "lrarmor-1.20.1-0.1.4.3.jar",
-          "name": "lrarmor-1.20.1-0.1.4.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 887099,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/lrarmor-1.20.1-0.1.4.3.jar",
-            "MD5": "915a633e24714a1dd6dd7f8f81ccd3bd",
-            "path": "mods/lrarmor-1.20.1-0.1.4.3.jar"
-          }
-        },
-        {
-          "id": "marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
-          "name": "marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 534925,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
-            "MD5": "b51b5bc8686ebc95e83312f7efadc923",
-            "path": "mods/marbledsfirstaid-1.20.1forge-1.2.0.0.jar"
-          }
-        },
-        {
-          "id": "marbledsmelees-1.20.1-1.0.0.jar",
-          "name": "marbledsmelees-1.20.1-1.0.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 53283,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/marbledsmelees-1.20.1-1.0.0.jar",
-            "MD5": "ccc10185debaf764c3531f63e4cd9f62",
-            "path": "mods/marbledsmelees-1.20.1-1.0.0.jar"
-          }
-        },
-        {
-          "id": "mcore-1.20.1-1.0.3.0.jar",
-          "name": "mcore-1.20.1-1.0.3.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 121205,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/mcore-1.20.1-1.0.3.0.jar",
-            "MD5": "da142d7a183dae31812590b95173915f",
-            "path": "mods/mcore-1.20.1-1.0.3.0.jar"
-          }
-        },
-        {
-          "id": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-          "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 37178,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-            "MD5": "6b528d368f7fcbf737df28f2457cdec6",
-            "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
-          }
-        },
-        {
-          "id": "Omega Recon 2.1.0 for Forge 1.20.1.jar",
-          "name": "Omega Recon 2.1.0 for Forge 1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1212700,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/Omega%20Recon%202.1.0%20for%20Forge%201.20.1.jar",
-            "MD5": "4248de86e4ffda1b7932bf46b103d4b5",
-            "path": "mods/Omega Recon 2.1.0 for Forge 1.20.1.jar"
-          }
-        },
-        {
-          "id": "online-emotes-2.1.2-forge.jar",
-          "name": "online-emotes-2.1.2-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 782231,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/online-emotes-2.1.2-forge.jar",
-            "MD5": "83b79456eacaba8f056fa944030c53c0",
-            "path": "mods/online-emotes-2.1.2-forge.jar"
-          }
-        },
-        {
-          "id": "ParCool-1.20.1-3.4.1.5.jar",
-          "name": "ParCool-1.20.1-3.4.1.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1133021,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/ParCool-1.20.1-3.4.1.5.jar",
-            "MD5": "81baa45ce88a653214ab58df5af51dea",
-            "path": "mods/ParCool-1.20.1-3.4.1.5.jar"
-          }
-        },
-        {
-          "id": "Pehkui-3.8.2+1.20.1-forge.jar",
-          "name": "Pehkui-3.8.2+1.20.1-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 671605,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/Pehkui-3.8.2+1.20.1-forge.jar",
-            "MD5": "95bdd5558d34044f54aab0ce292e679b",
-            "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar"
-          }
-        },
-        {
-          "id": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-          "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-          "type": "File",
-          "artifact": {
-            "size": 181437,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-            "MD5": "46f8554181d4d240075ea4919d01fd01",
-            "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
-          }
-        },
-        {
-          "id": "pointblank-forge-1.20.1-1.9.6.jar",
-          "name": "pointblank-forge-1.20.1-1.9.6.jar",
-          "type": "File",
-          "artifact": {
-            "size": 17401034,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/pointblank-forge-1.20.1-1.9.6.jar",
-            "MD5": "35137bad907310234a0198ba11df79a3",
-            "path": "mods/pointblank-forge-1.20.1-1.9.6.jar"
-          }
-        },
-        {
-          "id": "prionmod-2.0.93.jar",
-          "name": "prionmod-2.0.93.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3406886,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/prionmod-2.0.93.jar",
-            "MD5": "cca0a4a307abeeca8e4304679dc76621",
-            "path": "mods/prionmod-2.0.93.jar"
-          }
-        },
-        {
-          "id": "screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
-          "name": "screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 113495,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
-            "MD5": "e9d81c4744cfd8d00d72f03c55d90075",
-            "path": "mods/screenshot_viewer-1.3.2-forge-mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "selfexpression-2.22a-forge-1.20.1.jar",
-          "name": "selfexpression-2.22a-forge-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 6987776,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/selfexpression-2.22a-forge-1.20.1.jar",
-            "MD5": "98f496e45ec9923b3b90f291c1c0e5fc",
-            "path": "mods/selfexpression-2.22a-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "simply_traps-1.7-forge-1.20.1.jar",
-          "name": "simply_traps-1.7-forge-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 171139,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/simply_traps-1.7-forge-1.20.1.jar",
-            "MD5": "ad5277342482ccada3ffa56b52254e07",
-            "path": "mods/simply_traps-1.7-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "skin_changer-forge-1.20.1-0.6.6.jar",
-          "name": "skin_changer-forge-1.20.1-0.6.6.jar",
-          "type": "File",
-          "artifact": {
-            "size": 60904,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/skin_changer-forge-1.20.1-0.6.6.jar",
-            "MD5": "62c922b3219f6d14db704a53d8fea63d",
-            "path": "mods/skin_changer-forge-1.20.1-0.6.6.jar"
-          }
-        },
-        {
-          "id": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
-          "name": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 203819,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
-            "MD5": "499b9f228dbeafdf5ca499d1d3c84d5e",
-            "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
-          }
-        },
-        {
-          "id": "ToolBelt-1.20.1-1.20.02.jar",
-          "name": "ToolBelt-1.20.1-1.20.02.jar",
-          "type": "File",
-          "artifact": {
-            "size": 253567,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/ToolBelt-1.20.1-1.20.02.jar",
-            "MD5": "040527fce7ada8c7ea90430e89541ac6",
-            "path": "mods/ToolBelt-1.20.1-1.20.02.jar"
-          }
-        },
-        {
-          "id": "[1.20.1] SecurityCraft v1.10.1.jar",
-          "name": "[1.20.1] SecurityCraft v1.10.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 4769715,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/[1.20.1]%20SecurityCraft%20v1.10.1.jar",
-            "MD5": "9299326e13fa4f10c377ea6b26c771f9",
-            "path": "mods/[1.20.1] SecurityCraft v1.10.1.jar"
-          }
-        },
-        {
-          "id": "[1.20.1][Forge] RPG-HUD-3.10.3.jar",
-          "name": "[1.20.1][Forge] RPG-HUD-3.10.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 222317,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/[1.20.1][Forge]%20RPG-HUD-3.10.3.jar",
-            "MD5": "7e9be4e9b8c0783dc7693df320998326",
-            "path": "mods/[1.20.1][Forge] RPG-HUD-3.10.3.jar"
+            "size": 5043384,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "3c07e0a25c1921da7586c0290c72ba86",
+            "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
           }
         }
       ]
