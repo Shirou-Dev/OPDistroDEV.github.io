@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "1327894948644786237",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
@@ -12,7 +12,7 @@
       "name": "Operation-Project SS2",
       "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "2.0.8",
+      "version": "2.0.9",
       "address": "zakuranetwork.online",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -857,16 +857,6 @@
           }
         },
         {
-          "id": "generated.forgemod:prionmod:2.0.93@jar",
-          "name": "Prion Infection",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3406886,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/prionmod-2.0.93.jar",
-            "MD5": "cca0a4a307abeeca8e4304679dc76621"
-          }
-        },
-        {
           "id": "io.github.lgatodu47:screenshot_viewer:1.3.2-forge-mc1.20.1@jar",
           "name": "Screenshot Viewer",
           "type": "ForgeMod",
@@ -1195,6 +1185,17 @@
             "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
             "MD5": "3c07e0a25c1921da7586c0290c72ba86",
             "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
+          }
+        },
+        {
+          "id": "prionmod-2.0.93.jar",
+          "name": "prionmod-2.0.93.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3406886,
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/files/mods/prionmod-2.0.93.jar",
+            "MD5": "cca0a4a307abeeca8e4304679dc76621",
+            "path": "mods/prionmod-2.0.93.jar"
           }
         }
       ]
