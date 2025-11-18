@@ -12,7 +12,7 @@
       "name": "Operation-Project SS2",
       "description": "MC 1.20.1 - Forge 47.4.6 (DEV)",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "address": "zakuranetwork.online",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -608,12 +608,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2338069,
-            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/optionaloff/figura-0.1.5+1.20.1-forge-mc.jar",
+            "url": "http://shirou-dev.github.io/OPDistroDEV.github.io/servers/Operation-Project-Dev-1.20.1/forgemods/required/figura-0.1.5+1.20.1-forge-mc.jar",
             "MD5": "9a14ac7b2c6dea0085570fe4bb7a4b69"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
